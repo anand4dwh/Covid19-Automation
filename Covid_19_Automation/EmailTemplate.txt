@@ -1,0 +1,14 @@
+Hi,
+
+Your email automation robot has successfully completed at {0};
+
+Below are the COVID-19 World Status.
+
+{1}
+
+Kindly refer attached file for details based on Countries.
+
+NOTE : PLEASE DO NOT REPLY TO THIS EMAIL.
+
+Regards,
+Anand Mahankali
