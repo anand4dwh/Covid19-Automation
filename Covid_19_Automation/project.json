@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfoCollection": []
   },
   "arguments": {
     "input": [],
