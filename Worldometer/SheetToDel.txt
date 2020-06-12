@@ -1,0 +1,8 @@
+Sub SheetToDel(SheetToDel)
+
+Application.DisplayAlerts = False
+Sheets(SheetToDel).Select
+ActiveWindow.SelectedSheets.Delete
+Application.DisplayAlerts = True
+
+End Sub
