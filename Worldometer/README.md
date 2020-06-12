@@ -1,7 +1,9 @@
 # Worldometer_Automation_UIPath
 Demo project on Scraping Covid-19 Data from worldometer website.
 
+# History #
 Update -- 26.05.2020
+Update -- 13.06.2020 -- Fixed some bugs with email attachments.
 
 Added CleanUpExcelSheet, This will clean up the unwanted/repeated sheets in the excel COVID19_Report.
 
